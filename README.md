@@ -1,4 +1,15 @@
-# Network Traffic Analysis with Wireshark
+# Description
+This project demonstrates how to use a virtual machine with Ubuntu for networking.
+
+# Websites
+These websites will be used to install the VirtualBox and Ubuntu. 
+<ul>
+  <li>VirtualBox</li>
+    <li>Ubuntu</li>
+</ul>
+
+
+# Project Walk-through
 This project demonstrates how to install VirtualBox, use the command prompt to download Wireshark and use Wireshark for networking.
 
 <p align="center">Download and install <a href="https://www.virtualbox.org/wiki/Downloads">VirtualBox.</a> This will be used as the environment on Ubuntu, a Linux distribution.</p>
