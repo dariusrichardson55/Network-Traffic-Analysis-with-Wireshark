@@ -8,7 +8,6 @@ These websites will be used to install the VirtualBox and Ubuntu.
     <li>Ubuntu</li>
 </ul>
 
-
 # Project Walk-through
 This project demonstrates how to install VirtualBox, use the command prompt to download Wireshark and use Wireshark for networking.
 
@@ -83,8 +82,8 @@ This project demonstrates how to install VirtualBox, use the command prompt to d
 
 ![image](https://github.com/user-attachments/assets/45469f7f-b6c5-42b0-ab44-75cc2bd9fb06)
 
-
 <p align="center">Click 'Next'.</p>
+
 ![image](https://github.com/user-attachments/assets/2763389a-0824-4c8f-984b-fb0526d86d6c)
 
 <p align="center">Select ' Interaction Installation' and press next.</p>
@@ -139,3 +138,20 @@ This project demonstrates how to install VirtualBox, use the command prompt to d
 
 ![image](https://github.com/user-attachments/assets/13d73c7f-1ca1-4238-9133-ae88930e55c7)
 
+<b>Wireshark - Filter packages</b>
+
+<p align="center">Select 'enp0s3', it might take 10 minutes to load the traffic </p>
+
+![image](https://github.com/user-attachments/assets/abe926fa-013d-440a-b233-0268171f3bc4)
+
+<p align="center">Select the search bar and enter IP addr == 10.0.2.15 && TCP poty == 80</p>
+
+![image](https://github.com/user-attachments/assets/0dfeed3b-4f83-4e3c-89de-7942bb554e70)
+
+<p align="center">To save the filter, select the file and then select save as.</p>
+
+![image](https://github.com/user-attachments/assets/de0eadea-089b-49a1-9325-90ece5e0dacc)
+
+<p align="center">Click Save.</p>
+
+![image](https://github.com/user-attachments/assets/86b1d801-4acd-434b-9fe8-b90712eb8275)
