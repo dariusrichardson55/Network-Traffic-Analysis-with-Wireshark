@@ -129,7 +129,7 @@ This project demonstrates how to install VirtualBox, use the command prompt to d
 
 ![image](https://github.com/user-attachments/assets/4cc81f1b-5967-48a3-a175-5e52a7b2cbf3)
 
-<p align="center">During the installation, it will ask whether should non-superusers be able to capture packets. Select Yes and press Enter to continue the installation.</p>
+<p align="center">During the installation, it will ask 'should non-superusers be able to capture packets'. Select Yes and press Enter to continue the installation.</p>
 
 ![image](https://github.com/user-attachments/assets/bf9545a3-cbed-4320-957d-a5f92078e2b1)
 
@@ -140,11 +140,11 @@ This project demonstrates how to install VirtualBox, use the command prompt to d
 
 <b>Wireshark - Filter packages</b>
 
-<p align="center">Select 'enp0s3', it might take 10 minutes to load the traffic </p>
+<p align="center">Select 'enp0s3', it might take 10 minutes to load the packets</p>
 
 ![image](https://github.com/user-attachments/assets/abe926fa-013d-440a-b233-0268171f3bc4)
 
-<p align="center">Select the search bar and enter IP addr == 10.0.2.15 && TCP poty == 80</p>
+<p align="center">Select the search bar and enter IP addr == 10.0.2.15 && TCP poty == 80. Next, press 'stop capturing packets' on the top menu bar (red square shaped).'</p>
 
 ![image](https://github.com/user-attachments/assets/0dfeed3b-4f83-4e3c-89de-7942bb554e70)
 
@@ -152,6 +152,6 @@ This project demonstrates how to install VirtualBox, use the command prompt to d
 
 ![image](https://github.com/user-attachments/assets/de0eadea-089b-49a1-9325-90ece5e0dacc)
 
-<p align="center">Click Save.</p>
+<p align="center">Click save.</p>
 
 ![image](https://github.com/user-attachments/assets/86b1d801-4acd-434b-9fe8-b90712eb8275)
